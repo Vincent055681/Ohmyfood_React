@@ -1,3 +1,16 @@
+Ce projet est un copié collé du Projet 3 de ma formation Openclassrooms, sauf qu'au lieu de simplement utiliser du HTML / SCSS, j'utilise React. Le projet en lui même ne justifie pas l'utilisation d'un framework, mais ça me permet de me faire la main sur React.
+
+[Projet original sans React](https://github.com/Vincent055681/VincentDiRaimondo_3_22032021/tree/master)
+
+J'ai laissé le loading spinner pour simuler le chargement de la page, mais avec react-router-dom, ça n'a aucun intérêt, c'est juste que j'ai essayé de faire une copie exacte du site original.
+
+Par contre, une chose que je n'ai pas réussi est de faire apparaître les plats progressivement avec opacité sur les pages menus, comme dans le projet original. C'est la seule chose que je n'ai pas implémenté par rapport au projet de base.
+
+Enfin, certaines features un peu trop touchy pour un débutant comme moi ont été implémenté par mon mentor. Je n'ai pas construit à 100% ce projet seul.
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
